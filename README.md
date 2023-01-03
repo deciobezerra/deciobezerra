@@ -30,3 +30,8 @@ Here are some ideas to get you started:
 ### My social network
 * <a href="https://www.instagram.com/odeciobezerra/" rel="nofollow"> Instagram - @odeciobezerra</a>
 * <a href="https://www.linkedin.com/in/deciodbc/" rel="nofollow"> Linkedin - in/deciodbc</a>
+
+### Contact Me
+* <a href="mailto:contato@techalpha.com;br"> E-mail</a>
+
+
