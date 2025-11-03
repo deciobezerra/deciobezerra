@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 * User Interface Design.
 
 ### My social network
-* <a href="https://www.instagram.com/odeciobezerra/" rel="nofollow"> Instagram - @odeciobezerra</a>
+* <a href="https://www.instagram.com/odeciocastro/" rel="nofollow"> Instagram - @odeciocastro</a>
 * <a href="https://www.linkedin.com/in/deciodbc/" rel="nofollow"> Linkedin - in/deciodbc</a>
 
 ### Contact Me
