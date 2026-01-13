@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 * User Interface Design.
 
 ### My social network
-* <a href="https://www.instagram.com/odeciocastro/" rel="nofollow"> Instagram - @odeciocastro</a>
+* <a href="https://www.instagram.com/itsdeciocastro/" rel="nofollow"> Instagram - @itsdeciocastro</a>
 * <a href="https://www.linkedin.com/in/deciodbc/" rel="nofollow"> Linkedin - in/deciodbc</a>
 
 ### Contact Me
-* <a href="mailto:contato@techalpha.com;br"> E-mail</a>
+* <a href="mailto:oi@nexussolutio.com.br"> E-mail</a>
 
 
